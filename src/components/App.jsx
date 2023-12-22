@@ -1,10 +1,10 @@
 import React from 'react';
-import PhoneBook from './Book/Phonebook';
+import ImageFinder from './ImgFinder/ImageFinder';
 
 function App() {
   return (
     <div className="App">
-      <PhoneBook />
+      <ImageFinder />
     </div>
   );
 }
